@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "voidroot_echo",
+	"version": "${version}",
+	"name": "Voidroot Echo",
+	"description": "Not all roots grow in daylight.",
+	"authors": [
+		"ceevyte",
+		""
+	],
+	"contact": {
+		"homepage": "https://delightzone.github.io/",
+		"sources": "https://github.com/delightzone/VoidrootEcho"
+	},
+	"license": "MIT",
+	"icon": "assets/voidroot_echo/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.ceevyte.voidroot_echo.VoidrootEcho"
+		],
+		"fabric-datagen": [
+			"net.ceevyte.voidroot_echo.VoidrootEchoDataGenerator"
+		],
+		"client": [
+			"net.ceevyte.voidroot_echo.VoidrootEchoClient"
+		]
+	},
+	"mixins": [
+		"voidroot_echo.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

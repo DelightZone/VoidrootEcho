@@ -1,0 +1,28 @@
+{
+  "item.voidroot_echo.oddstone": "Oddstone",
+  "item.voidroot_echo.runestone": "Runestone",
+  "item.voidroot_echo.chisel": "Chisel",
+  "item.voidroot_echo.sauce_can": "Sauce Can",
+  "item.voidroot_echo.sauce_can_open": "Sauce Can",
+  "item.voidroot_echo.wood": "Jus' Wood",
+
+  "block.voidroot_echo.ruby_block": "Ruby Block",
+  "block.voidroot_echo.lead_block": "Block of Lead",
+  "block.voidroot_echo.hepatizon_block": "Block of Hepatizon",
+  "block.voidroot_echo.saltpeter_block": "Salt Peter 😨",
+
+  "block.voidroot_echo.magic_block": "Magic ✨ Block",
+
+  "itemgroup.voidroot_echo.voidroot_echo_items": "Voidroot Echo Items",
+  "itemgroup.voidroot_echo.voidroot_echo_blocks": "Voidroot Echo Blocks",
+
+  "tooltip.voidroot_echo.generic.tooltip": "Press §eShift§r for more information",
+
+  "tooltip.voidroot_echo.chisel.tooltip": "I am turning some blocks... on-",
+  "tooltip.voidroot_echo.chisel.tooltip0": "I mean, into other blocks, yeah.",
+
+  "tooltip.voidroot_echo.wood.tooltip": "Jus' wood to burn your enemies",
+
+  "tooltip.voidroot_echo.magic_block.tooltip": "Wa'cha watchin' for? Jus'",
+  "tooltip.voidroot_echo.magic_block.tooltip0": "drop da §9Oddstone§r on me!"
+}
